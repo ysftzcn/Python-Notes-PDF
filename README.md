@@ -3,6 +3,6 @@
 www.goalkicker.com
 
 <p align="center">
-  <img src="https://goalkicker.com/PythonBook/PythonGrow.png" width="100%" />
+  <img src="https://goalkicker.com/PythonBook/PythonGrow.png" width="60%" />
 </p>
 
